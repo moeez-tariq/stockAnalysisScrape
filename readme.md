@@ -45,3 +45,8 @@ The script takes a list of company stock tickers and scrapes financial metrics f
    python main.py
    ```
    The script will then scrape the financial data and display it for each company.
+
+   ## Team Members
+   1. Allan Zhan
+   2. Allen Feng
+   3. Muhammad Moeez Tariq
