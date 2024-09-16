@@ -23,7 +23,7 @@ The script takes a list of company stock tickers and scrapes financial metrics f
    To get started, first clone the repository to your local machine:
 
    ```bash
-   git clone <https://github.com/moeez-tariq/stockAnalysisScrape.git>
+   git clone https://github.com/moeez-tariq/stockAnalysisScrape.git
    cd stockAnalysisScrape
    ```
 
@@ -39,10 +39,9 @@ The script takes a list of company stock tickers and scrapes financial metrics f
 
 3. **Run the Script**
 
-   Run the script with the desired list of stock tickers:
+   Change the 'companyTickers' list in main.py to add the companies you want. Run the script with the desired list of stock tickers:
 
    ```bash
    python main.py
    ```
-
-   Follow the on-screen instructions to input the list of stock tickers. The script will then scrape the financial data and display it for each company.
+   The script will then scrape the financial data and display it for each company.
